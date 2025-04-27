@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "Diseño de sistemas de seguridad",
+      "description": "Implementacion de soluciones de seguridad para cobertura de 5 pisos",
+      "technologies": ["Python", "Django"],
+      "Link": "#"
+    },
+    {
+      "title": "Laboratorios de CCTV",
+      "description": "Desarrollo de plataforma para practicas de instalcionde CCTV",
+      "technologies": ["Python", "Django"],
+      "year": "2025"
+    }
+  ]
+}
