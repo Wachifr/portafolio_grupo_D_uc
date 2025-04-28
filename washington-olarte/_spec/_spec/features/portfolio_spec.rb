@@ -6,6 +6,6 @@ RSpec.describe 'Portfolio', type: :feature do
   it 'muestra los proyectos del JSON' do
     expect(page).to have_content("Diseño de sistemas de seguridad")
     expect(page).to have_content('Ruby')
-    expect(page).to have_content('Proyecto 2')
+    expect(page).to have_content("Desarrollo de plataforma para practicas de instalcionde CCTV")
   end
 end
